@@ -1,0 +1,17 @@
+{
+  "name": "genpark-memory-lake",
+  "version": "1.0.0",
+  "description": "Local, private, and portable lifelong memory management for AI agents.",
+  "main": "index.js",
+  "bin": {
+    "genpark-memory-lake": "./index.js"
+  },
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "commander": "^11.1.0"
+  },
+  "author": "GenPark Community",
+  "license": "MIT"
+}
